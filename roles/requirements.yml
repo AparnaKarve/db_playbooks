@@ -5,3 +5,5 @@
 - src: geerlingguy.memcached
 
 - src: bertvv.mariadb
+
+- src: andrewrothstein.cassandra

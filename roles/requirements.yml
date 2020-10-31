@@ -3,3 +3,5 @@
 - src: geerlingguy.postgresql
 
 - src: geerlingguy.memcached
+
+- src: bertvv.mariadb

@@ -1,0 +1,8 @@
+---
+- name: use galaxy mariadb role
+  hosts: all 
+  user: ansible
+  become: true
+
+  roles:
+    - role: bertvv.mariadb
